@@ -1,6 +1,7 @@
 ### Bem vindo(a) 👋
-✨ Formado em Análise e Desenvolvimento de Sistemas. 
-✨ Com foco em desenvolvimento web e mobile, sou desenvolvedor Full Stack.
+
+- ✨  Formado em Análise e Desenvolvimento de Sistemas.
+- ✨  Com foco em desenvolvimento web e mobile, sou desenvolvedor Full Stack.
 
 ### Links úteis:
 
