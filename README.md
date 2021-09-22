@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alencar-03410310a/)](https://www.linkedin.com/in/lucas-alencar-03410310a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbalencar05@gmail.com)](mailto:lucasbalencar05@gmail.com)
-[![appveyor Badge](https://img.shields.io/badge/-Portfolio-227171?style=flat-square&logo=appveyor&logoColor=white&link=https://lucasalencar.site)](https://lucasalencar.site)
+[![appveyor Badge](https://img.shields.io/badge/-Portfolio-227171?style=flat-square&logo=appveyor&logoColor=white&link=https://lucasalencar.netlify.app)](https://lucasalencar.netlify.app)
 
 - ✨ Graduated in Systems Analysis and Development. Focused on web and mobile development, I am a full stack developer.
 <!--
