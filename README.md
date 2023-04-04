@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbalencar05@gmail.com)](mailto:lucasbalencar05@gmail.com)
 <!--[![appveyor Badge](https://img.shields.io/badge/-Portfolio-227171?style=flat-square&logo=appveyor&logoColor=white&link=https://lucasalencar.netlify.app)](https://lucasalencar.netlify.app)-->
 
-- ✨ Graduated in Systems Analysis and Development. Focused on web and mobile development, I am a full stack developer.
+- ✨
 <!--
 **lucasalencar05/lucasalencar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
